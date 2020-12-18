@@ -1,3 +1,3 @@
 # myCodeInGame
 
-My Coding Games solutions in Javascript
+My Coding Games solutions in Javascript and Python
